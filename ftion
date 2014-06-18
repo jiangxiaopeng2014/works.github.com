@@ -1,0 +1,179 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>无标题文档</title>
+<link href="css/index.css" rel="stylesheet"/> 
+
+</head>
+<body>
+<div id="header">
+	<div id="headerC" class="wrap2">
+    	<div class="MobilService">移动业务</div>
+        <span class="f1"></span>
+        <a href="#" class="f2" title="飞信首页">飞信首页</a>
+        <span class="f1"></span>
+        <a href="#" class="f2" title="同窗">同窗</a>
+        <span class="f1"></span>
+        <a href="#" class="f2" title="会员">会员</a>
+        <span class="f1"></span>
+        <a href="#" class="f2" title="装扮">装扮</a>
+        <span class="f1"></span>
+        <a href="#" class="f2" title="飞信支付">飞信支付</a>
+        <span class="f1"></span>
+        <a href="#" class="f2" title="积分">积分</a>
+		<div class="Login">
+            <a href="#">登录</a>
+            <a href="#">免费注册</a>
+            <span class="regsiter"></span>
+            <a href="#" class="WebNav">网站导航</a>
+            <span class="headerbtn1"></span>
+            <a href="#" class="LoginHelp">帮助</a>
+            <span class="headerbtn2"></span>
+    	</div>
+    </div>
+</div>
+<div id="logocontent">    
+    <div id="logo" class="wrap2">
+        <h3 class="LogoPic">
+            <a href="#"  class="ChinaMobile"title="中国移动通信"></a>
+            <a href="#"  class="Fetion"title="飞信"></a>
+        </h3>
+        <ul class="LogoNav">
+            <li class="subNav1"><a href="index.html">首页</a></li>
+            <li class="subNav1"><a href="pcftion.html">PC飞信</a></li>
+            <li class="subNav2"><a href="#">无线飞信</a></li>
+            <li><a href="#">网页飞信</a></li>
+            <li><a href="#">公众平台</a></li>
+            <li><a href="#">飞信会员</a></li>
+            <li><a href="#">活动频道</a></li>
+            <li><a href="ftionwenhua.html" class="hover">飞信文化</a></li>
+        </ul>
+	</div>
+</div>
+<div id="Banner3">
+	<div id="BannerCenter" class="wrap2"></div>
+</div>
+<div id="ProductsCenrter" class="wrap2">
+    <h3 class="tit">飞信产品</h3>
+    <div class="content">
+        <span class="left"></span>
+        <ul>
+            <li>
+                <div class="img"></div>
+                <dl>
+                    <dt><a href="#">PC客户端</a></dt>
+                    <dd>无界沟通，从飞信开始</dd>
+                </dl>
+            </li>
+            <li>
+                <div class="img2"></div>
+                <dl>
+                    <dt><a href="#">手机客户端</a></dt>
+                    <dd>畅聊无限，指间传精彩</dd>
+                </dl>
+            </li>
+            <li>
+                <div class="img3"></div>
+                <dl>
+                    <dt><a href="#">手机飞信网</a></dt>
+                    <dd>随时随地，自由飞信</dd>
+                </dl>
+            </li>
+            <li>
+                <div class="img4"></div>
+                <dl>
+                    <dt><a href="#">空间</a></dt>
+                    <dd>尽情分享，记录生活</dd>
+                </dl>
+            </li>
+        </ul>
+        <span class="right"></span>
+    </div>
+</div>
+
+
+<div id="BoxCenter" class="wrap2 clear">
+    <div class="ModulefL">
+        <h5>飞信活动</h5>
+        <ul>
+            <li>
+                <div class="pic"></div>
+                <dl>
+                    <dt class="dt1"><a href="#">简单一步即享至尊生活</a></dt>
+                    <dd>飞信会员尊享十三项特权，开通即可统统享受</dd>
+                </dl>
+            </li>
+            <li>
+                <div class="pic2"></div>
+                <dl>
+                    <dt class="dt2"><a href="#" class="Seek">寻找飞信大咖，PC、手机双活跃用户有特权</a></dt>
+                    <dd>点亮大咖图标，尊享大咖权益</dd>
+                </dl>
+            </li>
+        </ul>
+    </div>
+    <div class="ModulefC">
+        <h5>飞信动态</h5>
+        <ul class="product_info">
+            <li>
+                <a href="#">飞信营业厅新版本发布啦！</a>
+                <em>NEW</em>
+            </li>
+            <li>
+                <a href="#">提高安全意识 警惕新型骗局</a>
+                <em>NEW</em>
+            </li>
+            <li>
+                <a href="#">手机飞信Android新版V4.3.1发布！</a>
+                <em>NEW</em>
+            </li>
+            <li>
+                <a href="#">手机飞信iPhone版V3.2.2发布</a>
+                <em>NEW</em>
+            </li>
+            <li>
+                <a href="#">飞聊WP8版本又更新啦！</a>
+                <em>NEW</em>
+            </li>
+        </ul>
+    </div>
+    <div class="ModulefR">
+        <h5>飞信体验</h5>
+        <div class="experience">    
+            <ul>
+                <li class="txt_pic3">
+                    <div class="pic3">
+                    	<a href="#"><img src="img/tiyan120x100.jpg" alt=""/></a>
+                    </div>
+                    <div class="txt3">
+                        <h6><a href="#">飞信用户体验中心</a></h6>
+                        <p>为用户提供最佳的产品体验，倾听来自用户的声音，将用户的反馈用于提高我们的产品和服务...</p>
+                    </div>
+                </li>
+                <li class="fetion3g"><a href="#">3G飞信V2.0侵袭，邀您体验！</a></li>
+                <li class="fetion3g"><a href="#">PC飞信满意度调研</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div  id="FooterCenter" class="wrap2">
+    <p class="footer-links">
+        <a href="#" title="法律声明">法律声明</a>
+        <a href="#" title="关于移动">关于移动</a>
+        <a href="#" title="关于飞信">关于飞信</a>
+        <a href="#" title="联系我们">联系我们</a>
+        <a href="#" title="网站地图">网站地图</a>
+        <a href="#" title="友情链接">友情链接</a>
+    </p>
+    <div class="ICP">
+        <span>
+            <a href="#" title="京ICP备05002571号">京ICP备05002571号</a>客服电话：10086
+        </span>
+    </div>
+</div>
+
+
+</body>
+</html>
